@@ -7,5 +7,6 @@ module.exports = {
   tabWidth: 2,
   arrowParens: 'avoid',
   bracketSpacing: true,
-  bracketSameLine: true
+  bracketSameLine: false,
+  proseWrap: 'always'
 }
